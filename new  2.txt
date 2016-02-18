@@ -1,2 +1,0 @@
-page.loginTextField_element.set username
-  page.loginPassword_element.set password
